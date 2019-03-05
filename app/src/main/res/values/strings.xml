@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogInPageJob</string>
+    <string name="login">LOGIN</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="link_signup">No account yet? Create one</string>
+    <string name="sign_up">SignUp</string>
+
+
+</resources>
